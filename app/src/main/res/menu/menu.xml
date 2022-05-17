@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/ic_baseline"
+        android:icon="@drawable/ic_baseline"
+        android:title="Cinema"
+        />
+
+    <item android:id="@+id/ic_baseline_info"
+        android:icon="@drawable/ic_baseline_info"
+        android:title="Interview"
+        />
+
+    <item android:id="@+id/ic_baseline_settings"
+        android:icon="@drawable/ic_baseline_settings"
+        android:title="Settings"
+        />
+</menu>
